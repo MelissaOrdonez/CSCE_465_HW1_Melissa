@@ -2149,5 +2149,6 @@ Data Flow Diagram with Labels (Task 4)
 
 Advisory Analysis (Task 4)
 
-Experience with HW1
 
+Experience with HW1
+I thought this was a very interesting homework, I think the part that took me the longest was Task 1 with the setup. I had some challenges with the model setup, I had originally tried the local model but it wasn't loading very well so I then switched over to using the API model. I enjoyed the exercise on direct vs indirect prompt injection, it really helped me understand how prompt injection works. I had a hard time with the threat model in Task 4 with understanding exactly how all those components flowed together and where the labels should go.
